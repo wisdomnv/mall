@@ -1,0 +1,11 @@
+#保证风格的统一，缩进.空格......，多个项目消耗的
+
+根=真
+
+[ * ]
+字符集= utf-8
+indent_style =空格
+缩进尺寸= 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
